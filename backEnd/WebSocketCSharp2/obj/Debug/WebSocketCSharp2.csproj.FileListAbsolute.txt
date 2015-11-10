@@ -1,0 +1,6 @@
+J:\Visual Studio 2010\Projects\WebSocketCSharp2\WebSocketCSharp2\bin\Debug\WebSocketCSharp2.exe.config
+J:\Visual Studio 2010\Projects\WebSocketCSharp2\WebSocketCSharp2\bin\Debug\WebSocketCSharp2.exe
+J:\Visual Studio 2010\Projects\WebSocketCSharp2\WebSocketCSharp2\bin\Debug\WebSocketCSharp2.pdb
+J:\Visual Studio 2010\Projects\WebSocketCSharp2\WebSocketCSharp2\obj\Debug\WebSocketCSharp2.csprojResolveAssemblyReference.cache
+J:\Visual Studio 2010\Projects\WebSocketCSharp2\WebSocketCSharp2\obj\Debug\WebSocketCSharp2.exe
+J:\Visual Studio 2010\Projects\WebSocketCSharp2\WebSocketCSharp2\obj\Debug\WebSocketCSharp2.pdb

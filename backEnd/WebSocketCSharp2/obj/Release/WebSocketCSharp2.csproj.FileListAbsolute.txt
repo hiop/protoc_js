@@ -1,0 +1,8 @@
+J:\Visual Studio 2010\Projects\WebSocketCSharp2\WebSocketCSharp2\bin\Release\WebSocketCSharp2.exe.config
+J:\Visual Studio 2010\Projects\WebSocketCSharp2\WebSocketCSharp2\bin\Release\WebSocketCSharp2.exe
+J:\Visual Studio 2010\Projects\WebSocketCSharp2\WebSocketCSharp2\bin\Release\WebSocketCSharp2.pdb
+J:\Visual Studio 2010\Projects\WebSocketCSharp2\WebSocketCSharp2\bin\Release\protobuf-net.dll
+J:\Visual Studio 2010\Projects\WebSocketCSharp2\WebSocketCSharp2\bin\Release\websocket-sharp.dll
+J:\Visual Studio 2010\Projects\WebSocketCSharp2\WebSocketCSharp2\obj\Release\WebSocketCSharp2.csprojResolveAssemblyReference.cache
+J:\Visual Studio 2010\Projects\WebSocketCSharp2\WebSocketCSharp2\obj\Release\WebSocketCSharp2.exe
+J:\Visual Studio 2010\Projects\WebSocketCSharp2\WebSocketCSharp2\obj\Release\WebSocketCSharp2.pdb
