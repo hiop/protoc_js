@@ -1,0 +1,2 @@
+python wss.py
+pause
